@@ -67,9 +67,12 @@ img {
     margin: 5px  10px  0  0 ;
 }
 
-.payment_text div{
+.payment_text div {
     margin-top: -5px;
     color: hsl(224, 23%, 55%);
+}
+.payment_text h2{
+    font-size: medium;
 }
 .proceed{
     padding-bottom: 30px;
